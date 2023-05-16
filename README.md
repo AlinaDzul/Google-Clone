@@ -4,10 +4,10 @@
 
 
 ## INDICE
-  * [Intro](https://github.com/AlinaDzul/Google-Clone/edit/main/README.md#intro)
-  * [¿Qué construí?](https://github.com/AlinaDzul/Google-Clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
-  * [Objetivos del Proyecto](https://github.com/AlinaDzul/Google-Clone/edit/main/README.md#qu%C3%A9-constru%C3%AD) 
-  * [¡Link al Demo!](https://github.com/AlinaDzul/Google-Clone/edit/main/README.md#link-al-demo) 
+  * [Intro](https://github.com/AlinaDzul/Google-Clone/blob/main/README.md#intro)
+  * [¿Qué construí?](https://github.com/AlinaDzul/Google-Clone/blob/main/README.md#qu%C3%A9-constru%C3%AD)
+  * [Objetivos del Proyecto](https://github.com/AlinaDzul/Google-Clone/blob/main/README.md#objetivo-del-proyecto) 
+  * [¡Link al Demo!](https://github.com/AlinaDzul/Google-Clone/blob/main/README.md#link-al-demo) 
 
 
 ***
